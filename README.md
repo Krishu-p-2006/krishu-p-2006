@@ -8,6 +8,8 @@
 <p align="center">
   <a href="https://krishu-p-2006.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://bca-study-hub-kp.web.app/"><img src="https://img.shields.io/badge/KP%20Study%20Hub-Live-brightgreen?style=for-the-badge" alt="Study Hub"></a>
+  <a href="https://leetcode.com/u/Krishu_Prajapati_2006/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://x.com/prajapati9071"><img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
@@ -49,6 +51,8 @@
 
 - 🌐 Portfolio: [krishu-p-2006.github.io](https://krishu-p-2006.github.io)
 - 💻 GitHub: [@Krishu-p-2006](https://github.com/Krishu-p-2006)
+- 🧩 LeetCode: [Krishu_Prajapati_2006](https://leetcode.com/u/Krishu_Prajapati_2006/)
+- 🐦 X (Twitter): [@prajapati9071](https://x.com/prajapati9071)
 
 ---
 
