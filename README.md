@@ -41,6 +41,7 @@
 | 🌐 [**Portfolio**](https://github.com/Krishu-p-2006/Krishu-p-2006.github.io) · [Live](https://krishu-p-2006.github.io) | My personal portfolio website | My HTML/CSS knowledge + AI tools used efficiently. Hosted on GitHub Pages |
 | 🧠 [**dsa-sheet-in-cpp**](https://github.com/Krishu-p-2006/dsa-sheet-in-cpp) | DSA practice sheet | C++ |
 | 📝 [**git-notes**](https://github.com/Krishu-p-2006/git-notes) | Personal Git cheatsheet with commands and examples | Markdown |
+| 📝 [**ai-agents-cheetsheat**](https://github.com/Krishu-p-2006/ai-agents-cheatsheet) | Begginers friendly ai agents explanation and tool | Markdown |
 
 ## 🎯 Currently
 
